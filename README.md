@@ -66,6 +66,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 - [BitPay](https://bitpay.com/) — Payment processor supporting stablecoin transactions and cards.
 - [MoonPay](https://www.moonpay.com/) — On-ramp and off-ramp infrastructure for fiat and crypto.
 - [Ramp](https://ramp.network/) — Payment infrastructure connecting fiat and stablecoins.
+- [LemonCake](https://lemoncake.xyz) — USDC Pay Tokens for AI agents, with hard spending caps, sub-second kill-switch, and automatic journaling into freee / Money Forward / QuickBooks.
 
 ## Analytics & Data
 
