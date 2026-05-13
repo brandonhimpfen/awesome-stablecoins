@@ -79,6 +79,7 @@ Platforms for tracking stablecoin supply, flows, and market behavior.
 - [Dune](https://dune.com/) — Query-based analytics platform for blockchain data.
 - [Token Terminal](https://tokenterminal.com/) — Financial metrics and analytics for crypto assets.
 - [CoinGecko](https://www.coingecko.com/) — Market data and stablecoin tracking.
+- [Sharpe Stablecoins](https://www.sharpe.ai/stablecoins) — Stablecoin analytics for market cap, peg deviation, supply by chain, mechanisms, and yield views.
 
 ## Regulation & Compliance
 
