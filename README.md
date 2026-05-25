@@ -80,6 +80,7 @@ Platforms for tracking stablecoin supply, flows, and market behavior.
 - [Token Terminal](https://tokenterminal.com/) — Financial metrics and analytics for crypto assets.
 - [CoinGecko](https://www.coingecko.com/) — Market data and stablecoin tracking.
 - [Sharpe Stablecoins](https://www.sharpe.ai/stablecoins) — Stablecoin analytics for market cap, peg deviation, supply by chain, mechanisms, and yield views.
+- [Stablesonar](https://stablesonar.xyz) - Yield radar tracking every stablecoin pool paying ≥10% APY across all major DeFi chains.
 
 ## Regulation & Compliance
 
