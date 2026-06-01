@@ -80,6 +80,7 @@ Platforms for tracking stablecoin supply, flows, and market behavior.
 - [Token Terminal](https://tokenterminal.com/) — Financial metrics and analytics for crypto assets.
 - [CoinGecko](https://www.coingecko.com/) — Market data and stablecoin tracking.
 - [Sharpe Stablecoins](https://www.sharpe.ai/stablecoins) — Stablecoin analytics for market cap, peg deviation, supply by chain, mechanisms, and yield views.
+- [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
 
 ## Regulation & Compliance
 
