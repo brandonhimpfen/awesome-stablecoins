@@ -67,6 +67,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 - [Stripe Crypto](https://stripe.com/crypto) — Payment infrastructure supporting stablecoin transactions.
 - [Coinbase Commerce](https://commerce.coinbase.com/) — Merchant platform for accepting crypto and stablecoins.
 - [BitPay](https://bitpay.com/) — Payment processor supporting stablecoin transactions and cards.
+- [OpenSettle](https://opensettle.io) — Non-custodial API for accepting USDC and USDT, settling payments directly to the merchant's wallet.
 - [MoonPay](https://www.moonpay.com/) — On-ramp and off-ramp infrastructure for fiat and crypto.
 - [Ramp](https://ramp.network/) — Payment infrastructure connecting fiat and stablecoins.
 
