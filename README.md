@@ -69,6 +69,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 - [BitPay](https://bitpay.com/) — Payment processor supporting stablecoin transactions and cards.
 - [MoonPay](https://www.moonpay.com/) — On-ramp and off-ramp infrastructure for fiat and crypto.
 - [Ramp](https://ramp.network/) — Payment infrastructure connecting fiat and stablecoins.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain trust scoring for AI agent wallets on Solana. Verify agent wallet reputation before authorizing autonomous stablecoin payment flows. Free MCP tools for preflight checks; signed trust receipts via x402.
 
 ## Analytics & Data
 
