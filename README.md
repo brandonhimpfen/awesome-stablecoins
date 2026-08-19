@@ -69,6 +69,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 - [BitPay](https://bitpay.com/) — Payment processor supporting stablecoin transactions and cards.
 - [MoonPay](https://www.moonpay.com/) — On-ramp and off-ramp infrastructure for fiat and crypto.
 - [Ramp](https://ramp.network/) — Payment infrastructure connecting fiat and stablecoins.
+- [USDCtoFiat](https://usdctofiat.xyz/) — Non-custodial USDC-to-fiat cash-out on Base into Venmo, Cash App, Revolut, and other payment apps, with a public TypeScript SDK.
 
 ## Analytics & Data
 
