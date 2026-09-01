@@ -74,6 +74,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 
 Platforms for tracking stablecoin supply, flows, and market behavior.
 
+- [Paycoin Index](https://paycoin.com/) — Hourly, source-cited index of stablecoin transfer costs across nine chains; free JSON data and daily history, no key required.
 - [Glassnode](https://glassnode.com/) — On-chain analytics platform for tracking stablecoin flows and metrics.
 - [Nansen](https://www.nansen.ai/) — Blockchain analytics and wallet intelligence platform.
 - [Dune](https://dune.com/) — Query-based analytics platform for blockchain data.
