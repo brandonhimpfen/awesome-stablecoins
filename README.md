@@ -50,7 +50,6 @@ Stablecoins backed by crypto collateral and managed via smart contracts.
 Stablecoins that rely on supply-demand mechanisms rather than full collateralization.
 
 - [Ampleforth (AMPL)](https://www.ampleforth.org/) — Elastic supply token designed to maintain price stability.
-- [Fei Protocol (FEI)](https://fei.money/) — Algorithmic stablecoin using direct incentives for peg stability.
 - [Terra (UST - legacy)](https://terra.money/) — Algorithmic model demonstrating risks of under-collateralized systems.
 
 ## Stablecoin Infrastructure
