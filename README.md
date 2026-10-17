@@ -70,6 +70,7 @@ Tools and platforms for using stablecoins in real-world transactions.
 - [Coinbase Commerce](https://commerce.coinbase.com/) — Merchant platform for accepting crypto and stablecoins.
 - [BitPay](https://bitpay.com/) — Payment processor supporting stablecoin transactions and cards.
 - [MoonPay](https://www.moonpay.com/) — On-ramp and off-ramp infrastructure for fiat and crypto.
+- [RailFi](https://railfi.xyz) — Non-custodial USDC/USDT payout plans for B2B teams: build the plan, send from your own wallet, reconcile each transfer to the invoice. Free months for early teams.
 - [Ramp](https://ramp.network/) — Payment infrastructure connecting fiat and stablecoins.
 
 ## Analytics & Data
