@@ -83,6 +83,7 @@ Platforms for tracking stablecoin supply, flows, and market behavior.
 - [CoinGecko](https://www.coingecko.com/) — Market data and stablecoin tracking.
 - [Sharpe Stablecoins](https://www.sharpe.ai/stablecoins) — Stablecoin analytics for market cap, peg deviation, supply by chain, mechanisms, and yield views.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- [TronOrb](https://tronorb.com/) — TRON analytics hub: USDT supply and flows on TRON, exchange reserves, Tether freeze/blacklist tracker, and network fee data.
 
 ## Regulation & Compliance
 
